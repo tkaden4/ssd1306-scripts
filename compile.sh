@@ -1,0 +1,1 @@
+dtc -@ -I dts -O dtb -o oled.dtbo oled.dts && mv oled.dtbo /boot/overlays/
